@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ayushh-gautam
-- 👀 I’m interested in web-development
-- 🌱 I’m currently learning js
+- 👀 I’m interested in app-development
+- 🌱 I’m currently learning flutter
 
 
 
