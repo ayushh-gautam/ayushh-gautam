@@ -1,6 +1,6 @@
 # Hi there, I'm @ayushh-gautam👋
 
-Full Stack Developer | Open Source Enthusiast | Tech Enthusiast
+Flutter Developer | Open Source Enthusiast | Tech Enthusiast
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/ayush-gautam-1450ab246/)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)](https://twitter.com/ayushh_gautam)
