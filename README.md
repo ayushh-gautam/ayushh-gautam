@@ -25,11 +25,11 @@ I'm an enthusiastic developer who has a solid background in app development and 
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayushh-gautam&show_icons=true&theme=dark)
 
 ## Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushh-gautam&layout=compact&theme=dark)
 
 ## Recent Activity
 
