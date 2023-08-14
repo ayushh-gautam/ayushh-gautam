@@ -19,7 +19,7 @@ I'm an enthusiastic developer who has a solid background in app development and 
 
 - **Frontend:** HTML5, CSS3, C++, Dart, Flutter
 - **Backend:** Firebase
-- **Database:** FireCloud
+- **Database:** FireStore
 - **DevOps:** Docker(beginner)
 - **Version Control:** Git, GitHub
 
