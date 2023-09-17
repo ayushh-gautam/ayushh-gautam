@@ -17,7 +17,7 @@ I'm an enthusiastic developer who has a solid background in app development and 
 
 ## Tech Stack
 
-- **Frontend:**  Flutter, HTML5, CSS3, C++
+- **Frontend:**  Flutter, HTML, CSS
 - **Backend:** Firebase
 - **Database:** FireStore
 - **DevOps:** Docker(beginner)
