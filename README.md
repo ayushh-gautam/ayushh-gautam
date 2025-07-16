@@ -27,6 +27,8 @@ I'm an enthusiastic developer who has a solid background in app development and 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayushh-gautam&show_icons=true&theme=dark)
 
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=ayushh-gautam)](https://git.io/streak-stats)
+
 
 
 ## Top Languages
