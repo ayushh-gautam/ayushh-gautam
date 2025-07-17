@@ -17,7 +17,7 @@ I'm an enthusiastic developer who has a solid background in app development and 
 
 ## Tech Stack
 
-- **Frontend:**  Flutter, HTML, CSS
+- **Frontend:**  Flutter, HTML, CSS, React
 - **Backend:** Firebase
 - **Database:** FireStore
 - **Version Control:** Git, GitHub
