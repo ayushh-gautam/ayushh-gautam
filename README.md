@@ -31,10 +31,8 @@ I'm an enthusiastic developer who has a solid background in app development and 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushh-gautam&layout=compact&theme=dark)
 
-## Recent Activity
-
-<!--RECENT_ACTIVITY:last_update-->
-<!--RECENT_ACTIVITY:last_update_end-->
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ## Get in Touch
 
