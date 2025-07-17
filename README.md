@@ -9,7 +9,7 @@ Flutter Developer | Open Source Enthusiast | Tech Enthusiast
 
 ## About Me
 
-I'm an enthusiastic developer who has a solid background in app development and a genuine interest in building reliable and scalable applications. I am always interested in finding out about new technologies and tools because I think that technology has the ability to solve problems in the real world.
+I'm an enthusiastic developer who has a solid background in app development and a genuine interest in building reliable and scalable applications.
 
 - 💼 Currently working on: Personal Projects
 - 🌱 Currently learning: Flutter
@@ -36,6 +36,5 @@ I'm an enthusiastic developer who has a solid background in app development and 
 
 ## Get in Touch
 
-I'm always interested in collaborating on new projects or discussing exciting opportunities. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ayush-gautam-1450ab246/) or [Twitter](https://twitter.com/ayushh_gautam).
-
-Let's create something amazing together!
+I'm always interested in collaborating on new projects or discussing exciting opportunities. Feel free to connect with me on <br/>
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/ayushh.gautamm/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/ayushh.gautam/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ayushgautam896@gmail.com)
